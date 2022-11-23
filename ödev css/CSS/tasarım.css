@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(245, 238, 220);
+    }
+
+.abas{
+    font-size:25px;
+    color:rgb(39, 123, 192);
+}
+
+.altbas{
+    font-size:20px;
+    color:rgb(255, 203, 66);
+}
+
+.prg{
+    font-size:16px;
+    color:black;
+}
+
+.orta{ /* liste ortalar*/
+    list-style-position:inside;
+}
+
